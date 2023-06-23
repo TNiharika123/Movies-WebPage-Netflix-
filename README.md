@@ -8,9 +8,8 @@ The goal of this project is to recreate the Netflix website interface, including
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Demo
 
-A live demo of the Netflix website clone can be found at .
+A live demo of the Netflix website clone can be found at https://tniharika123.github.io/OCTANET_JUNE-Task-3/
 
